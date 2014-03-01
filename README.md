@@ -1,4 +1,4 @@
 feezbuzz
 ========
 
-feezbuzz test repo
+FeezBuzz test implemented in different languages
